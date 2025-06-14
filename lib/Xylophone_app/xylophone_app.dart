@@ -3,8 +3,8 @@ import 'package:just_audio/just_audio.dart';
 
 final player = AudioPlayer();
 
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+class xylophone_app extends StatelessWidget {
+  const xylophone_app({super.key});
 
   @override
   Widget build(BuildContext context) {
